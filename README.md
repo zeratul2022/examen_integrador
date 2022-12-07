@@ -3,3 +3,4 @@ examen_integrador
 
 Jazmin Palma
 Nestor Real
+Rodrigo Cereceda
